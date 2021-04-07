@@ -1,0 +1,14 @@
+{
+  "name": "concat_env_example",
+  "version": "0.0.1",
+  "description": "npm i concat-env",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Amur Khoyetsyan",
+  "license": "MIT",
+  "dependencies": {
+    "concat-env": "0.0.1"
+  }
+}
