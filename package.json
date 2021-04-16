@@ -4,11 +4,12 @@
   "description": "npm i concat-env",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "test": "node index --name=$name"
   },
   "author": "Amur Khoyetsyan",
   "license": "MIT",
   "dependencies": {
-    "concat-env": "0.0.1"
+    "concat-env": "0.0.2"
   }
 }
